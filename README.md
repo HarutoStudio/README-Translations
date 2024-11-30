@@ -1,6 +1,12 @@
 # README-Translations
 
+Welcome to the README translations repository! This is the English version.
+
 **README-Translations** is an open-source repository focused on translating README files of open-source projects. This repository allows developers to translate project documentation, comments, and interfaces into Chinese or other languages, helping users worldwide easily understand and use these tools. You can participate in the translation effort and help bring excellent open-source projects to a wider audience.
+
+## Available Translations:
+- [English](README.md)
+- [繁體中文](README-zh-Hant.md)
 
 ## How to Contribute
 
